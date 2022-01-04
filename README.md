@@ -72,6 +72,11 @@ from a chat group, can see messages, but
 cannot send messages (must type this 
 command in the specific chat group)
 
+#### Server POV
+---
+
+![ServerPOV](https://github.com/braydonwang/Duber-Chat-Software/blob/main/ServerChatPOV.png)
+
 #### User POV
 ---
 
